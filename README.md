@@ -1,0 +1,9 @@
+# О себе
+
+Меня зовут Владимир
+
+Мне 28 лет
+
+Хочу построить карьеру в IT
+
+![Doggy](https://www.google.com/search?vsrid=CNWE3ej4u-f2TRACGAEiJDE0OGY2OWM1LWJkMGItNGNhYi05ZjlmLTRiNWVmZWZkM2QwMDKCASICZW4oGUJ0Ci5sZmUtZHVtbXk6MWQ5NDE0NWYtMTk1OS00NWFhLThlODAtOTBiNDRmYmQ0YWViEkIKQC9ibnMvZW4vYm9yZy9lbi9ibnMvbGVucy1mcm9udGVuZC1hcGkvcHJvZC5sZW5zLWZyb250ZW5kLWFwaS8xMTBaBAoCZW44tbrC2-iTlwM&vsint=CAQqDAoCCAcSAggKGAEgATojChYNAAAAPxUAAAA_HQAAgD8lAACAPzABEKUEGOwCJQAAgD8&udm=26&lns_mode=un&source=lns.web.gisivli&vsdim=549,364&gsessionid=tFM4avDuIFtYDmKNIeyQ9VpzfjE9HHW0FiNacabbKDP3kfjGpYopRQ&lsessionid=eB9tNQbYhVXu7EDi7mmq02rKD-dbzqwJ3n09TrRkeR3rqpLk8LuroQ&lns_surface=19&authuser=0&lns_vfs=e&qsubts=1790685871868&biw=1920&bih=953&ved=0CBkQh6cGahcKEwjow8HT6JOXAxUAAAAAHQAAAAAQag&tbnid=1s-zt7HG5DcxiM&ictx=2)
